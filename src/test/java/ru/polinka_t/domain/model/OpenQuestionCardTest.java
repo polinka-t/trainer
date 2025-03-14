@@ -1,11 +1,11 @@
 package ru.polinka_t.domain.model;
 
-import com.sun.jdi.LongValue;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class OpenQuestionCardTest {
     @Test
