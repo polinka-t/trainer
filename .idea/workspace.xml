@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="295dbaf2-8e27-48c8-9a5f-0094aeb78553" name="Changes" comment="The second homework is done!">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tdwlGqKCkg4oOA5q95qFqDogTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.OpenQuestionCardTest.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_Answer_does_not_look_like_expected_isFalse.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_Answer_is_null_isException.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_Answer_looks_like_expected_isTrue.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_Question_is_null_isException.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_expectedAnswer_and_question_is_null_isException.executor": "Run",
+    "JUnit.OpenQuestionCardTest.when_expectedAnswer_is_null_isException.executor": "Run",
+    "Maven.trainer [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "hw1",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.polinka_t.domain.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.polinka_t.domain.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OpenQuestionCardTest">
+    <configuration name="OpenQuestionCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.polinka_t.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.polinka_t.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.polinka_t.domain.model.OpenQuestionCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenQuestionCardTest.when_Answer_is_null_isException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.polinka_t.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.polinka_t.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.polinka_t.domain.model.OpenQuestionCardTest" />
+      <option name="METHOD_NAME" value="when_Answer_is_null_isException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenQuestionCardTest.when_Question_is_null_isException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.polinka_t.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.polinka_t.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.polinka_t.domain.model.OpenQuestionCardTest" />
+      <option name="METHOD_NAME" value="when_Question_is_null_isException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenQuestionCardTest.when_expectedAnswer_and_question_is_null_isException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.polinka_t.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.polinka_t.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.polinka_t.domain.model.OpenQuestionCardTest" />
+      <option name="METHOD_NAME" value="when_expectedAnswer_and_question_is_null_isException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenQuestionCardTest.when_expectedAnswer_is_null_isException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.polinka_t.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.polinka_t.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.polinka_t.domain.model.OpenQuestionCardTest" />
+      <option name="METHOD_NAME" value="when_expectedAnswer_is_null_isException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OpenQuestionCardTest" />
+        <item itemvalue="JUnit.OpenQuestionCardTest.when_expectedAnswer_and_question_is_null_isException" />
+        <item itemvalue="JUnit.OpenQuestionCardTest.when_expectedAnswer_is_null_isException" />
+        <item itemvalue="JUnit.OpenQuestionCardTest.when_Question_is_null_isException" />
+        <item itemvalue="JUnit.OpenQuestionCardTest.when_Answer_is_null_isException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="295dbaf2-8e27-48c8-9a5f-0094aeb78553" name="Changes" comment="" />
+      <created>1740695409861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740695409861</updated>
+    </task>
+    <task id="LOCAL-00001" summary="The first homework is done!">
+      <option name="closed" value="true" />
+      <created>1740778174873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740778174873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The first homework is done!">
+      <option name="closed" value="true" />
+      <created>1740779468046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740779468046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The second homework is done!">
+      <option name="closed" value="true" />
+      <created>1741990153611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741990153611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The second homework is done!">
+      <option name="closed" value="true" />
+      <created>1741990525964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741990525964</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/hw1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The first homework is done!" />
+    <MESSAGE value="The second homework is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="The second homework is done!" />
+  </component>
+</project>
