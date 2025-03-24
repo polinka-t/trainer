@@ -1,6 +1,6 @@
-package main.java.ru.polinka_t.gui.controller;
+package ru.polinka_t.gui.controller;
 
-import main.java.ru.polinka_t.gui.model.QuestionTableModel;
+import ru.polinka_t.gui.model.QuestionTableModel;
 import org.springframework.stereotype.Controller;
 import ru.polinka_t.domain.model.OpenQuestionCard;
 import ru.polinka_t.domain.service.QuestionService;

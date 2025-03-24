@@ -16,6 +16,10 @@
             <groupId>ru.polinka-t</groupId>
             <artifactId>trainer_domain</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-dbcp2</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
