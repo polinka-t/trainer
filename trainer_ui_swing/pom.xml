@@ -3,16 +3,31 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/hw1
     <parent>
         <groupId>ru.polinka-t</groupId>
         <artifactId>trainer</artifactId>
         <version>1.0</version>
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/hw1
     </parent>
 
     <artifactId>trainer_ui_swing</artifactId>
 
+<<<<<<< HEAD
+=======
+    <properties>
+        <java.version>22</java.version>
+        <maven.compiler.source>22</maven.compiler.source>
+        <maven.compiler.target>22</maven.compiler.target>
+    </properties>
+
+>>>>>>> origin/hw1
 
     <dependencies>
         <dependency>
@@ -21,12 +36,17 @@
         </dependency>
         <dependency>
             <groupId>ru.polinka-t</groupId>
+<<<<<<< HEAD
             <artifactId>trainer_db_jdbc</artifactId>
+=======
+            <artifactId>trainer_db_spring_jdbc</artifactId>
+>>>>>>> origin/hw1
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
@@ -37,6 +57,8 @@
             <version>1.0</version>
             <scope>compile</scope>
         </dependency>
+=======
+>>>>>>> origin/hw1
     </dependencies>
 
     <build>
@@ -52,7 +74,11 @@
                     <archive>
                         <manifest>
                             <mainClass>
+<<<<<<< HEAD
                                 ru.polinka_t.gui.Application
+=======
+                                ru.polinka-t.ru.polinka_t.gui.Application
+>>>>>>> origin/hw1
                             </mainClass>
                         </manifest>
                     </archive>

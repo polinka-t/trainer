@@ -48,6 +48,11 @@
                 <version>${jdbc_module.version}</version>
             </dependency>
             <dependency>
+                <groupId>ru.polinka-t</groupId>
+                <artifactId>trainer_db_spring_jdbc</artifactId>
+                <version>${jdbc_module.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-context</artifactId>
                 <version>7.0.0-M3</version>
