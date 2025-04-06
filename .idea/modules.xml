@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/trainer_api/trainer_api.iml" filepath="$PROJECT_DIR$/trainer_api/trainer_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/trainer_db_spring_hibernate/trainer_db_spring_hibernate.iml" filepath="$PROJECT_DIR$/trainer_db_spring_hibernate/trainer_db_spring_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainer_httpclient/trainer_httpclient.iml" filepath="$PROJECT_DIR$/trainer_httpclient/trainer_httpclient.iml" />
     </modules>
   </component>
 </project>

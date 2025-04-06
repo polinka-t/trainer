@@ -10,6 +10,6 @@ import java.util.List;
 public interface QuestionDtoMapper {
     OpenQuestionCard mapToModel(OpenQuestionCardDto dto);
     OpenQuestionCardDto mapToDto(OpenQuestionCard question);
-    List<OpenQuestionCard> mapToModel(List<OpenQuestionCardDto> dtos);
+    List<OpenQuestionCard> mapToModel(List<OpenQuestionCardDto> questionDtos);
     List<OpenQuestionCardDto> mapToDto(List<OpenQuestionCard> questions);
 }

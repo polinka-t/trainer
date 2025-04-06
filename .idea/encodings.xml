@@ -3,5 +3,17 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_spring_jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_db_spring_jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_ui_console/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_ui_console/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_ui_swing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trainer_ui_swing/src/main/resources" charset="UTF-8" />
   </component>
 </project>

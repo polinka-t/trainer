@@ -6,8 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="trainer" />
+      </profile>
+      <profile name="Annotation profile for trainer" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.6.3/mapstruct-processor-1.6.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.6.3/mapstruct-1.6.3.jar" />
+        </processorPath>
+        <module name="trainer_db_spring_jdbc" />
+        <module name="trainer_db_jdbc" />
+        <module name="trainer_ui_swing" />
+        <module name="trainer_domain" />
+        <module name="trainer_ui_console" />
+        <module name="trainer_db_spring_hibernate" />
+        <module name="trainer_api" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="trainer_api" options="-parameters" />
+      <module name="trainer_db_jdbc" options="-parameters" />
+      <module name="trainer_db_spring_hibernate" options="-parameters" />
+      <module name="trainer_db_spring_jdbc" options="-parameters" />
+      <module name="trainer_domain" options="-parameters" />
+      <module name="trainer_ui_console" options="-parameters" />
+      <module name="trainer_ui_swing" options="-parameters" />
+    </option>
   </component>
 </project>
