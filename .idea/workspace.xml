@@ -4,13 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="295dbaf2-8e27-48c8-9a5f-0094aeb78553" name="Changes" comment="The second homework is done!">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="295dbaf2-8e27-48c8-9a5f-0094aeb78553" name="Changes" comment="hw 8.1">
+      <change afterPath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/api/controller/QuestionControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/gui/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_api/trainer_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_api_dto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_httpclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_httpclient/src/main/java/ru/polinka_t/client/QuestionAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer_httpclient/trainer_httpclient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_2_11_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2025_2_11__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainer_api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/api/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/api/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/api/mapper/QuestionDtoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/api/mapper/QuestionDtoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/gui/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainer_api/src/main/java/ru/polinka_t/gui/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/ru/polinka_t/spring/hibernate/config/DbConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/ru/polinka_t/spring/hibernate/dao/QuestionHibernateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/ru/polinka_t/spring/hibernate/entity/OpenQuestionCardEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_db_spring_hibernate/src/main/ru/polinka_t/spring/hibernate/mapper/QuestionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer_db_spring_hibernate/trainer_db_spring_hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainer_db_spring_hibernate/trainer_db_spring_hibernate.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +38,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,22 +81,31 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "hw1",
+    "jdk.selected.JAVA_MODULE": "openjdk-22",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Талалай/IdeaProjects/trainer/trainer_api",
+    "onboarding.tips.debug.path": "C:/Users/Талалай/IdeaProjects/trainer/trainer_httpclient/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.polinka_t.domain.service" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Талалай\IdeaProjects\trainer\trainer_api" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.polinka_t.gui" />
+      <recent name="ru.polinka_t.api.controller" />
       <recent name="ru.polinka_t.domain.model" />
     </key>
   </component>
@@ -172,13 +199,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -220,7 +240,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741990525964</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="a little update">
+      <option name="closed" value="true" />
+      <created>1743335321673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743335321673</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw 7">
+      <option name="closed" value="true" />
+      <created>1743342009745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743342009745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw 8.1">
+      <option name="closed" value="true" />
+      <created>1743380031097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743380031097</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +293,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The first homework is done!" />
     <MESSAGE value="The second homework is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="The second homework is done!" />
+    <MESSAGE value="a little update" />
+    <MESSAGE value="hw 7" />
+    <MESSAGE value="hw 8.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 8.1" />
   </component>
 </project>

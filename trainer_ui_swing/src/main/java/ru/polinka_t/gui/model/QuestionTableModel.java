@@ -1,4 +1,4 @@
-package main.java.ru.polinka_t.gui.model;
+package ru.polinka_t.gui.model;
 
 
 import ru.polinka_t.domain.model.OpenQuestionCard;

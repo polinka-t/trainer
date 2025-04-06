@@ -1,5 +1,6 @@
 package ru.polinka_t.spring.jdbc.dao;
 
+import org.springframework.stereotype.Repository;
 import ru.polinka_t.domain.model.OpenQuestionCard;
 import ru.polinka_t.domain.repo.QuestionRepository;
 
@@ -8,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
+@Repository
 public class QuestionJdbcTemplateDao implements QuestionRepository {
     private final Map<Long, OpenQuestionCard> cards = new HashMap<>();
     @Override

@@ -1,10 +1,10 @@
-package main.java.ru.polinka_t.gui;
+package ru.polinka_t.gui;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import main.java.ru.polinka_t.gui.config.SpringConfig;
-import main.java.ru.polinka_t.gui.controller.MainController;
+import ru.polinka_t.gui.config.SpringConfig;
+import ru.polinka_t.gui.controller.MainController;
 
 
 public class Application
